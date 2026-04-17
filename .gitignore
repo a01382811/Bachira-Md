@@ -1,0 +1,22 @@
+# Session WhatsApp (IDENTIFIANTS PRIVÉS)
+bachir-session/
+*.json
+!package.json
+!package-lock.json
+
+# Dépendances
+node_modules/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Fichiers temporaires
+*.tmp
+*.temp
+temp/
+tmp/
